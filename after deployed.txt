@@ -10,3 +10,8 @@ foooter pr direction pr error aar  rha tha last time
 
 
 ek command hoti hai npm run build ,  usse build ka folder create hoga
+
+back end ko render pr add kra tha  , or front end ko netfly pr
+
+
+
