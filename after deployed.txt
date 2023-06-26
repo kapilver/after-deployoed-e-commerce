@@ -1,0 +1,12 @@
+https://app.netlify.com/sites/taupe-jelly-da50e4/settings/general       render account
+
+
+
+https://64994731e163ac16aee8f7e7--animated-mochi-89f6ea.netlify.app/       live server
+
+
+
+foooter pr direction pr error aar  rha tha last time
+
+
+ek command hoti hai npm run build ,  usse build ka folder create hoga
