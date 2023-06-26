@@ -14,4 +14,7 @@ ek command hoti hai npm run build ,  usse build ka folder create hoga
 back end ko render pr add kra tha  , or front end ko netfly pr
 
 
+render pr server add krne ke baad live server ka url generate hua tha wo url front end me jha api call ki thhi wha pr laga dena
+
+
 
